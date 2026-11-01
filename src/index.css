@@ -4,27 +4,27 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #030014;
+  --color-primary: #141414;
 
-  --color-light-100: #cecefb;
-  --color-light-200: #a8b5db;
+  --color-light-100: #FFFFFF;
+  --color-light-200: #B3B3B3;
 
-  --color-gray-100: #9ca4ab;
+  --color-gray-100: #808080;
 
-  --color-dark-100: #0f0d23;
+  --color-dark-100: #1F1F1F;
 
   --font-dm-sans: DM Sans, sans-serif;
 
   --breakpoint-xs: 480px;
 
-  --background-image-hero-pattern: url("/hero-bg.png");
+  --background-image-hero-pattern: url("/hero-bg1.png");
 }
 
 @layer base {
   body {
     font-family: "DM Sans", serif;
     font-optical-sizing: auto;
-    background: #030014;
+    background: #141414;
   }
 
   h1 {
