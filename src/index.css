@@ -4,7 +4,7 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #141414;
+  --color-primary: #150002;
 
   --color-light-100: #FFFFFF;
   --color-light-200: #B3B3B3;
@@ -24,7 +24,7 @@
   body {
     font-family: "DM Sans", serif;
     font-optical-sizing: auto;
-    background: #141414;
+    background: #150002;
   }
 
   h1 {
